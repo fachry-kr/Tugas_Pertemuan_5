@@ -1,0 +1,10 @@
+{
+  "name": "recursive-restaurant-management",
+  "version": "1.0.0",
+  "description": "A project that includes recursive functions for factorial and Fibonacci series, and a restaurant order management system.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Fachry Kurniansyah Ramadhan"
+}
