@@ -1,0 +1,10 @@
+{
+  "name": "restaurantku",
+  "version": "1.0.0",
+  "description": "A simple restaurant order management system using JavaScript.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Fachry Kurniansyah Ramadhan"
+}
