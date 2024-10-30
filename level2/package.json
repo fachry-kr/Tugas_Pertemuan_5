@@ -1,0 +1,11 @@
+{
+  "name": "inventory-management-system",
+  "version": "1.0.0",
+  "description": "Sistem manajemen inventaris barang sederhana menggunakan JavaScript",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Fachry Kurniansyah Ramadhan"
+}
